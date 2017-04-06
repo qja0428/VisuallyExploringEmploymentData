@@ -20,5 +20,9 @@ Files list:
 * employment.R: r script file
 * VisuallyExploringEmploymentData.pdf: pdf file from R markdown
 * VisuallyExploringEmploymentData.Rmd: R markdown file
-* agglevel_titles.csv, area_titles.csv, industry_titles.csv, ownership_titles.csv, size_titles.csv: information data file
+* agglevel_titles.csv: QCEW Aggregation Level Codes
+* area_titles.csv: QCEW Area Codes and Titles (For NAICS coded data)
+* industry_titles.csv: QCEW Industry Codes and Titles (For NAICS Coded Data)
+* ownership_titles.csv: QCEW Ownership Codes (For NAICS coded data)
+* size_titles.csv: QCEW Establishment Size Classes (For NAICS-Based Data)
 

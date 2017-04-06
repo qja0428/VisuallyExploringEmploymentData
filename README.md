@@ -17,5 +17,8 @@ In this project, I will do the following:
 * Benchmarking performance for some common tasks
 
 Files list:
-* 
+* employment.R: r script file
+* VisuallyExploringEmploymentData.pdf: pdf file from R markdown
+* VisuallyExploringEmploymentData.Rmd: R markdown file
+* agglevel_titles.csv, area_titles.csv, industry_titles.csv, ownership_titles.csv, size_titles.csv: information data file
 
